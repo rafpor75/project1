@@ -1,4 +1,4 @@
 echo "hello world!"
 
 
-echo "good bye!"
+echo "good bye good bye!"
