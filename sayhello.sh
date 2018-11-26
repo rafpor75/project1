@@ -1,5 +1,5 @@
 echo "hello world!"
 
-echo "inserisco questa linea"
+echo "questa linea la vorrei togliere"
 
 echo "goodbye goodbye goodbye goodbye!"
